@@ -10,8 +10,8 @@ These scripts are excellent to use for both local development and CI/CD pipeline
 
 Windows, Mac OS, and Linux platforms are all supported by their respective scripts:
 
-| Platform | Script Type | Script |
-| --- | --- | --- |
-| Windows | Powershell | didact-cli-install.ps1 |
-| Mac OS | Shell | didact-cli-install.sh |
-| Linux | Shell | didact-cli-install.sh |
+| Application | Platform | Script Type | Script |
+| --- | --- | --- | --- |
+| Didact CLI | Windows | Powershell | didact-cli-install.ps1 |
+| Didact CLI | Mac OS | Shell | didact-cli-install.sh |
+| Didact CLI | Linux | Shell | didact-cli-install.sh |
